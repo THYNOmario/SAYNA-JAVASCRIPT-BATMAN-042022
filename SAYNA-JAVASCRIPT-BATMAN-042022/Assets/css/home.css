@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Raleway:wght@200&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    padding-left: 10%;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: bold;
+}
+
+p {
+    padding-left: 10%;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: x-large;
+}
+
+#header {
+    background-image: url(/Assets/Illustrations/Home/Bathome1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logos {
+    padding-left: 70%;
+    position: absolute;
+    text-align: center;
+    padding-top: 14%;
+}
+
+.logos img {
+    padding: 2%;
+}
+
+.card p {
+    padding-left: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: smaller;
+}
+
+main {
+    background-color: #000000fd;
+}
+
+.multumedia {
+    padding-top: 5%;
+    background-color: black;
+}
+
+#heros {
+    text-align: center;
+    padding-top: 15%;
+}
+
+#heros p {
+    font-family: 'Rajdhani', sans-serif;
+}
+
+#heros button {
+    padding: 2%;
+}
+
+#fleches {
+    padding-left: 50%;
+    padding-top: 27%;
+}
+
+#cinema {
+    padding-top: 5%;
+    text-align: start;
+    padding-left: 5%;
+}
+
+#media {
+    text-align: start;
+    padding-left: 5%;
+}
+
+.image {
+    padding-top: 5%;
+    display: flex;
+    justify-content: evenly;
+}
+
+.images3 {
+    text-align: center;
+}
+
+.images3 img {
+    padding: 20px;
+}
+
+.imagess3 {
+    text-align: center;
+}
+
+.imagess3 img {
+    padding: 20px;
+}
+
+.image1 {
+    padding-top: 10%;
+    text-align: center;
+    padding: 10%;
+}
+
+#contact {
+    background-color: #eddebf;
+}
+
+#contact h1 {
+    text-align: center;
+}
+
+#contact p {
+    font-size: x-small;
+    padding-left: 2%;
+}
+
+#contact .form-control {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #7a7878;
+}
+
+#contact button {
+    margin: 5%;
+    text-align: center;
+}
+
+.button {
+    background-color: transparent;
+    text-align: center;
+}
+
+#comfirm {
+    padding: 1%;
+    background-image: linear-gradient(to right top, #eddebf, #d3af82, #bb7f4e, #a34c25, #890008);
+}
+
+.comfirm {
+    text-align: center;
+}
+
+.box1 {
+    background-color: #0d0d0e;
+    padding: 10%;
+    right: -25%;
+}
+
+.box1 p {
+    font-size: medium;
+}
+
+.box-footer {
+    background-color: #0d0d0e;
+    padding: 10%;
+    text-align: center;
+}
+
+.box-footer p {
+    font-size: smaller;
+    font-weight: 50;
+}

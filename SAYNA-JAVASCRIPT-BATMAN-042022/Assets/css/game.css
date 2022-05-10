@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Raleway:wght@200&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+h1 {
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Rajdhani', sans-serif;
+}
+
+header {
+    background-image: url(/Assets/Illustrations/Game/Batgame1.png);
+    background-repeat: no-repeat;
+    padding-left: 0;
+}
+
+.logos {
+    padding-left: 50%;
+    position: absolute;
+    text-align: center;
+    padding-top: 10%;
+}
+
+.logos img {
+    padding: 2%;
+}
+
+header .tete {
+    border-style: dotted solid #c4c4c4;
+}
+
+button {
+    text-align: center;
+}
+
+.text {
+    padding-left: 15%;
+    padding-top: 20%;
+}
+
+#Quzz {
+    background-color: #000000;
+}
+
+.quzz {
+    padding: 5%;
+    padding-left: 8%;
+}
+
+input {
+    padding: 2%;
+    padding-left: 2%;
+}
+
+.quzz label {
+    padding-left: 5%;
+}
+
+.quzz .form-check {
+    background-color: #7a7575;
+    text-align: start;
+    padding-top: 1%;
+    padding-left: 5%;
+    width: 50%;
+}
+
+.quzz h5 {
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.quzz1 {
+    padding: 5%;
+    text-align: center;
+}
+
+.quzz1 h3 {
+    padding-left: 4%;
+    text-align: start;
+}
+
+.quzz h3 {
+    text-align: start;
+}
+
+.quzz1 img {
+    padding-top: 5%;
+}
+
+#fleches {
+    padding-left: 50%;
+    padding-top: 30%;
+}
+
+.box-footer {
+    background-color: #0d0d0e;
+    padding: 10%;
+    text-align: center;
+}
+
+#comfirm {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding: 1%;
+    margin: 5%;
+    background-image: linear-gradient(to right top, #796c7e, #7f5873, #87405c, #8a263a, #811010);
+    margin-left: 40%;
+}
+
+.box-footer p {
+    font-size: smaller;
+    font-weight: 50;
+}
